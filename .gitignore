@@ -1,0 +1,18 @@
+# Visual Studio temporary files
+.vs/*
+
+# Sandbox files
+obj/*
+VideoUI/*
+
+# Build Specific Files
+AppPackages/*
+packages/*
+bin/*
+BundleArtifacts/*
+Package.StoreAssociation.xml
+
+# User Specific Files
+*.user
+*.csproj.user
+*.env
